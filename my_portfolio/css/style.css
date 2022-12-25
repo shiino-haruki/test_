@@ -1,0 +1,10 @@
+@charset "UTF-8";
+body {
+  background-color: #000000;
+}
+p {
+  color: #ff0000;
+}
+ ul {
+   color: #ffffff;
+ }
